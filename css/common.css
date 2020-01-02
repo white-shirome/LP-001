@@ -508,7 +508,7 @@ table {
       content: 'D';
       position: absolute;
       top: -2rem;
-      left: -6rem;
+      left: -6.3rem;
       font-size: 70rem;
       color: #F2F2F2;
       z-index: -1;
@@ -542,7 +542,8 @@ table {
     margin: 0 0 5rem auto; }
     .detail__txt table {
       margin: 2rem 0;
-      border-collapse: collapse; }
+      border-collapse: collapse;
+      width: 600px; }
       .detail__txt table th,
       .detail__txt table td {
         padding: 1rem 1.5rem;
